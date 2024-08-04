@@ -29,6 +29,10 @@ src/server.py를 실행함<br />
 복수의 src/client.py를 동시에 실행함<br />
 > python client.py --ca-certs ../cert/server.crt --port 8053
 
+Client ID를 입력하고, 채팅 메시지 입력 후 SEND 버튼을 눌러서 서버로 전송함<br />
+
+Client의 EXIT 혹은 DISCONNECT 버튼을 눌러서 실행을 종료함<br />
+
 Poetry 실행을 중지함<br />
 > exit
 
