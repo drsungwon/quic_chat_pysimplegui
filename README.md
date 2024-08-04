@@ -1,7 +1,7 @@
 <h1>Fullstack Service Networking Season.2 <br />PySimpleGUI Chatting (N:M) Client & Server Program</h1>	
 
 Server : Python (aioquic)<br />
-> quic_chat 서버를 사용함
+> quic_chat 서버를 사용함 (alpn 서비스 식별자만 수정함)
 
 Client : GUI Desktop Application (Python + aioquic & PySimpleGUI)<br />
 > Simple Loopback Procotol Client 기반으로 개발됨
